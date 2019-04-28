@@ -1,7 +1,7 @@
 +++
 title = "Applying statistical models optimize the process of multi-pass narrow-gap laser welding with filler wire"
 authors = ["Shi, H.", "Zhang, K.", "Xu, Z.", "**Huang, T.**", "Fan, L.", "Bao, W."]
-date = 2014-01-01
+date = 2014-10-01
 draft = false
 publication = "The International Journal of Advanced Manufacturing Technology"
 abstract= ""
@@ -13,9 +13,7 @@ categories = []
 
 url_pdf = ""
 
-[[url_custom]]
-  name = "url"
-  url  = "https://link.springer.com/article/10.1007/s00170-014-6159-y"
+links = [{name = "url", url  = "https://link.springer.com/article/10.1007/s00170-014-6159-y"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
