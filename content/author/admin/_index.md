@@ -89,4 +89,5 @@ interests = [
 +++
 
 I am a fourth year Ph.D. student in the [Department of Mechanical Engineering](https://www.mccormick.northwestern.edu/mechanical/) at [Northwestern University](https://www.northwestern.edu/). I work with [Dr. Wei Chen](http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/chen-wei.html) towards my disseration on material and product design under uncertainty. I am also pursuing a Master of Science in Statistics degree en route to my Ph.D.
+
 Before joining the Ph.D. program, I have earned a B.Sc degree in Materials Science and Engineering, a B.A. in Journalism and Communications, both from Shanghai Jiao Tong University in Shanghai, China, and a M.Sc degree in Mechanical Engineering from Northwestern.
