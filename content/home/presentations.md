@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   organization = "USACM Thematic Conference on Uncertainty Quantification in
 Computational Solid and Structural Materials Modeling,"
   organization_url = ""
-  title = "Multiscale and Multidimensional Quantification and Propagation of Manufacturing Induced Uncertainty in Fiber Reinforced Composites."
+  title = "Multiscale and Multidimensional Quantification and Propagation of Manufacturing Induced Uncertainty in Fiber Reinforced Composites"
   url = ""
   certificate_url = ""
   date_start = "2019-01-17"
