@@ -45,6 +45,7 @@ date_format = "Jan 2006"
   date_start = "2015-09-01"
   date_end = ""
   description = """
+   
   - ME341 Computational Methods for Engineering Design 
   - ME441 Engineering Optimization 
   - ME220 Thermodynamics 
