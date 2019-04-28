@@ -51,5 +51,15 @@ date_format = "Jan 2006"
   - ME220 Thermodynamics 
   - ME340-1 Manufacturing Processes 
   """
+  
+[[experience]]
+  title = "Summer Session"
+  company = "University of California, Berkeley"
+  company_url = ""
+  location = "Berkeley, CA"
+  date_start = "2013-07-01"
+  date_end = "2013-08-01"
+  description = """
+  """
 
 +++
