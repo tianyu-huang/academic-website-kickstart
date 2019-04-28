@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2017-03-01"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  description = ""
   
 [[item]]
   organization = "Course Project"
@@ -47,5 +47,24 @@ date_format = "Jan 2006"
   date_start = "2017-11-01"
   date_end = "2017-12-01"
   description = ""
+  
+[[item]]
+  organization = "Course Project"
+  organization_url = ""
+  title = "Bike sharing data analysis"
+  url = ""
+  certificate_url = ""
+  date_start = "2018-03-01"
+  date_end = "2018-03-01"
+  description = ""
 
+[[item]]
+  organization = "Course Project"
+  organization_url = ""
+  title = "Smartphone-Based Recognition of Human Activities and Postural Transitions"
+  url = "https://eecs349.weebly.com/"
+  certificate_url = ""
+  date_start = "2016-05-01"
+  date_end = "2016-05-01"
+  description = ""
 +++
