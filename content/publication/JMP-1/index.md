@@ -15,8 +15,8 @@ categories = []
 url_pdf = ""
 
 [[url_custom]]
-  name = ""
-  url  = ""
+  name = "url"
+  url  = "https://www.sciencedirect.com/science/article/pii/S1526612518318607"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
