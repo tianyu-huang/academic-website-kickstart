@@ -1,5 +1,5 @@
 +++
-title = "A Comparative Study of Two RVE Modelling Methods for Chopped Carbon Fiber SMC."
+title = "A Comparative Study of Two RVE Modelling Methods for Chopped Carbon Fiber SMC"
 authors = [ "Chen, Z.", "Li, Y.", "Shao, Y.", "**Huang, T.**", "Xu, H.", "Li, Y.", "Chen, W.", "Zeng, D.", "Avery, K.", "Kang, H.", "Su, X."]
 date = 2017-03-28
 draft = false
