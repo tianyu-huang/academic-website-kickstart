@@ -27,5 +27,5 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2017-04-06"
   date_end = ""
-  description = "2019 USACM Conference on Uncertainty Quantification in Computational Solid and Structural Materials Modeling"
+  description = ""
 +++
