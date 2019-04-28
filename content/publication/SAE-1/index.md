@@ -1,7 +1,7 @@
 +++
 title = "A Comparative Study of Two RVE Modelling Methods for Chopped Carbon Fiber SMC."
 authors = [ "Chen, Z.", "Li, Y.", "Shao, Y.", "**Huang, T.**", "Xu, H.", "Li, Y.", "Chen, W.", "Zeng, D.", "Avery, K.", "Kang, H.", "Su, X."]
-date = 2017-01-01
+date = 2017-03-28
 draft = false
 publication = "SAE Technical Paper"
 abstract= ""
@@ -13,9 +13,7 @@ categories = []
 
 url_pdf = ""
 
-[[url_custom]]
-  name = "url"
-  url  = "https://www.sae.org/publications/technical-papers/content/2017-01-0224/"
+links = [{name = "url", url  = "https://www.sae.org/publications/technical-papers/content/2017-01-0224/"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
