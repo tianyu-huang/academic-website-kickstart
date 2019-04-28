@@ -15,8 +15,8 @@ categories = []
 url_pdf = ""
 
 [[url_custom]]
-  name = ""
-  url  = ""
+  name = "url"
+  url  = "https://pubs.acs.org/doi/abs/10.1021/acsnano.8b02454"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
