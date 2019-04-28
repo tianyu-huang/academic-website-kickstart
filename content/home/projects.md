@@ -51,7 +51,7 @@ date_format = "Jan 2006"
   date_start = "2017-11-01"
   date_end = ""
   description = """
-  For EECS495: Deep neural networks.Recurrent neural network (RNN) modeling of the S&P 500 index with the forward chaining validation method for time series.
+  *(EECS495: Deep neural networks)*. Recurrent neural network (RNN) modeling of the S&P 500 index with the forward chaining validation method for time series.
   """
   
 [[item]]
@@ -63,7 +63,7 @@ date_format = "Jan 2006"
   date_start = "2018-03-01"
   date_end = ""
   description = """
-  For STAT352: Nonparametric statistical methods. Nonparametric regression of bike sharing time and count data along with other environment variables (weather, temperature, etc.).
+  *(STAT352: Nonparametric statistical methods)*. Nonparametric regression of bike sharing time and count data along with other environment variables (weather, temperature, etc.).
   """
 
 [[item]]
@@ -75,6 +75,6 @@ date_format = "Jan 2006"
   date_start = "2016-05-01"
   date_end = ""
   description = """
-  For EECS349: Machine learning. Machine learning predictions of human activities based on smartphone sensor data in both time and frequency domain.
+  *(EECS349: Machine learning)*. Machine learning predictions of human activities based on smartphone sensor data in both time and frequency domain.
   """
 +++
