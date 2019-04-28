@@ -18,13 +18,16 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Summer Internship (Materials and Manufacturing)"
+  title = "Summer Internship"
   company = "Research and Innovation Center, Ford Motor Company"
   company_url = ""
   location = "Dearborn, MI"
   date_start = "2018-07-01"
   date_end = "2018-09-01"
-  description = ""
+  description = """
+  - Worked in the materials and manufacturing group
+  - Conducted research on design of carbon fiber reinforced polymer composite materials and parts
+  """
 
 [[experience]]
   title = "Research Assistant"
@@ -33,7 +36,9 @@ date_format = "Jan 2006"
   location = "Evanston, IL"
   date_start = "2015-09-01"
   date_end = ""
-  description = ""
+  description = """
+  Various projects on fiber and nanoparticle composite materials design, uncertainty quantification and propagation, surrogate modeling of PDE-based engineering systems, etc.
+  """
   
 [[experience]]
   title = "Teaching Assistant/Grader"
@@ -43,7 +48,7 @@ date_format = "Jan 2006"
   date_start = "2015-09-01"
   date_end = ""
   description = """
-   
+  Courses include (200+: undergraduate, 300+: undergraduate/graduate, 400+: graduate): 
   - ME341 Computational Methods for Engineering Design 
   - ME441 Engineering Optimization 
   - ME220 Thermodynamics 
