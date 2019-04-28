@@ -25,13 +25,7 @@ date_format = "Jan 2006"
   date_start = "2018-07-01"
   date_end = "2018-09-01"
   description = """
-  I worked in the materials and manufacturing group in the Research and Innovation Center at Ford, responsibilities include:
-  
-  - developing codes for analyzing microstructure images of carbon fiber reinforced polymer (CFRP) composites
-  
-  - uncertainty analysis and stochastic reconstruction of CFRP microstructures
-  
-  - researching on design of CFRP composite materials and parts
+  I worked in the materials and manufacturing group in the Research and Innovation Center at Ford, mainly on developing methods for the design of carbon fiber reinforced polymer(CFRP) composite materials and products.
   """
 
 [[experience]]
