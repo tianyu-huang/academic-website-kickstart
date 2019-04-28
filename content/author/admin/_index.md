@@ -16,7 +16,7 @@ role = "Ph.D. candidate in Mechanical Engineering"
 organizations = [ { name = "Integrated DEsign Automation Laboratory", url = "https://ideal.mech.northwestern.edu/" },{ name = "Department of Mechanical Engineering", url = "https://www.mccormick.northwestern.edu/mechanical/" },{ name = "Northwestern University", url = "https://www.northwestern.edu/" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = ""
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
@@ -30,7 +30,7 @@ interests = [
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["Researchers", "Visitors"]
+# user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
