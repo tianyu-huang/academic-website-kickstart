@@ -88,4 +88,4 @@ interests = [
 
 +++
 
-I am a fourth year Ph.D. student advised by [Prof. Wei Chen](http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/chen-wei.html) at Northwestern University. My study includes the applications of statistical machine/deep learning algorithms in the mathematical modeling process for engineering design and uncertainty quantification/propagation associated with these models. I am also pursuing a Master of Science in Statistics degree en route to my Ph.D.
+I am a fourth year Ph.D. student in the Department of Mechanical Engineering at Northwestern University. I work with [Dr. Wei Chen](http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/chen-wei.html) towards my disseration on material and product design under uncertainty. I am also pursuing a Master of Science in Statistics degree en route to my Ph.D.
