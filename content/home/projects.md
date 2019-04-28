@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = ""
   date_start = "2016-01-01"
-  date_end = ""
+  date_end = "2020"
   description = ""
 
 [[item]]
@@ -35,7 +35,7 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = ""
   date_start = "2017-03-01"
-  date_end = ""
+  date_end = "2020"
   description = ""
   
 [[item]]
@@ -45,7 +45,7 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = ""
   date_start = "2017-11-01"
-  date_end = "2017-12-01"
+  date_end = ""
   description = ""
   
 [[item]]
@@ -55,7 +55,7 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = ""
   date_start = "2018-03-01"
-  date_end = "2018-03-01"
+  date_end = ""
   description = ""
 
 [[item]]
@@ -65,6 +65,6 @@ date_format = "Jan 2006"
   url = "https://eecs349.weebly.com/"
   certificate_url = ""
   date_start = "2016-05-01"
-  date_end = "2016-05-01"
+  date_end = ""
   description = ""
 +++
