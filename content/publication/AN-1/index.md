@@ -13,7 +13,7 @@ categories = ["paper"]
 
 url_pdf = ""
 
-[[url_custom]]
+[url_custom]
   name = "url"
   url  = "https://pubs.acs.org/doi/abs/10.1021/acsnano.8b02454"
 
