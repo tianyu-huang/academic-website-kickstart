@@ -3,6 +3,7 @@ title = "Materials by Design for Stiff and Tough Hairy Nanoparticle Assemblies"
 authors = [ "Hansoge, N. K.", "**Huang, T.**", "Sinko, R.", "Xia, W.", "Chen, W.", "Keten, S."]
 date = 2018-07-05
 draft = false
+publication_types = "2"
 publication = "ACS Nano"
 abstract= ""
 
