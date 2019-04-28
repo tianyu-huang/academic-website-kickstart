@@ -59,7 +59,4 @@ date_format = "Jan 2006"
   location = "Berkeley, CA"
   date_start = "2013-07-01"
   date_end = "2013-08-01"
-  description = """
-  """
-
 +++
