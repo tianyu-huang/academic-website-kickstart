@@ -19,14 +19,19 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Summer Internship"
-  company = "Research and Innovation Center, Ford Motor Company"
+  company = "Ford Motor Company"
   company_url = ""
   location = "Dearborn, MI"
   date_start = "2018-07-01"
   date_end = "2018-09-01"
   description = """
-  - Worked in the materials and manufacturing group
-  - Conducted research on design of carbon fiber reinforced polymer composite materials and parts
+  I worked in the materials and manufacturing group in the Research and Innovation Center at Ford, responsibilities include:
+  
+  - developing codes for analyzing microstructure images of carbon fiber reinforced polymer (CFRP) composites
+  
+  - uncertainty analysis and stochastic reconstruction of CFRP microstructures
+  
+  - researching on design of CFRP composite materials and parts
   """
 
 [[experience]]
@@ -49,9 +54,13 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   Courses include (200+: undergraduate, 300+: undergraduate/graduate, 400+: graduate): 
+  
   - ME341 Computational Methods for Engineering Design 
+  
   - ME441 Engineering Optimization 
+  
   - ME220 Thermodynamics 
+  
   - ME340-1 Manufacturing Processes 
   """
   
