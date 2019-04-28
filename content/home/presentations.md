@@ -37,5 +37,5 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2019-01-17"
   date_end = ""
-  description = ""
+  description = "Poster presentation"
 +++
