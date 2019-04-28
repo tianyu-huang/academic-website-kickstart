@@ -38,6 +38,8 @@ subtitle = ""
   #   4 = Citation (publication only)
   # view = 3
   list_format = 4
+  publication_type = "-1"
+  exclude_selected = false
   
 [design.background]
   # Apply a background color, gradient, or image.
@@ -67,6 +69,6 @@ subtitle = ""
  css_class = ""
 +++
 
-{{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}
+# {{% alert note %}}
+# Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
+# {{% /alert %}}
