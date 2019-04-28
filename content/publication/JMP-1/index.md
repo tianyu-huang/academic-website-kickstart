@@ -3,7 +3,6 @@ title = "3D reconstruction of complex spatial weld seam for autonomous welding b
 authors = [ "Zhang, K.", "Yan, M.", "**Huang, T.**", "Zheng, J.", "Li, Z."]
 date = 2019-01-01
 draft = false
-publication_types = 2
 publication = "Journal of Manufacturing Processes"
 abstract= ""
 
