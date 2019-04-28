@@ -1,7 +1,7 @@
 +++
 title = "Materials by Design for Stiff and Tough Hairy Nanoparticle Assemblies"
 authors = [ "Hansoge, N. K.", "**Huang, T.**", "Sinko, R.", "Xia, W.", "Chen, W.", "Keten, S."]
-date = 2018-01-01
+date = 2018-07-05
 draft = false
 publication = "ACS Nano"
 abstract= ""
@@ -9,7 +9,7 @@ abstract= ""
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = []
-categories = []
+categories = ["paper"]
 
 url_pdf = ""
 
