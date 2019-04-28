@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   date_start = "2015-09-01"
   date_end = ""
   description = """
-  Various projects on fiber and nanoparticle composite materials design, uncertainty quantification and propagation, surrogate modeling of PDE-based engineering systems, etc.
+  Various projects on fiber and nanoparticle composite materials design, uncertainty quantification and propagation, surrogate modeling of PDE-based engineering systems, etc. (see below)
   """
   
 [[experience]]
