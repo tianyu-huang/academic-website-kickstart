@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2017-09-01"
   date_end = "2018-06-01"
-  description = ""
+  description = "Awarded to support an interdisciplinary team project on uncertainty quantification in multi-scale modeling for engineering design"
   
 +++
 
