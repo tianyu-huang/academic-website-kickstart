@@ -24,8 +24,7 @@ date_format = "Jan 2006"
   location = "Dearborn, MI"
   date_start = "2018-07-01"
   date_end = "2018-09-01"
-  description = """
-  """
+  description = ""
 
 [[experience]]
   title = "Research Assistant"
@@ -34,8 +33,7 @@ date_format = "Jan 2006"
   location = "Evanston, IL"
   date_start = "2015-09-01"
   date_end = ""
-  description = """
-  """
+  description = ""
   
 [[experience]]
   title = "Teaching Assistant/Grader"
