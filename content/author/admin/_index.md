@@ -23,8 +23,9 @@ email = ""
 
 # List (academic) interests or hobbies
 interests = [
-  "Engineering Design",
-  "Uncertainty Analysis",
+  "Random process modeling",
+  "Uncertainty quantification and propagation",
+  "Machine learning/deep learning for design",
   "Design Optimization"
 ]
 
@@ -79,6 +80,11 @@ interests = [
   icon_pack = "ai"
   link = "https://orcid.org/0000-0002-1296-3619"
 
+[[social]]
+  icon = "researchgate"
+  icon_pack = "ai"
+  link = "https://www.researchgate.net/profile/Tianyu_Huang2"
+  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # [[social]]
