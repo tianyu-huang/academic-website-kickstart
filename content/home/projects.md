@@ -69,7 +69,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Course Project"
   organization_url = ""
-  title = "Smartphone-Based Recognition of Human Activities and Postural Transitions"
+  title = "Smartphone-based recognition of human activities and postural transitions"
   url = "https://eecs349.weebly.com/"
   certificate_url = ""
   date_start = "2016-05-01"
