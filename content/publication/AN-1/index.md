@@ -15,7 +15,7 @@ categories = ["Journal Paper"]
 url_pdf = ""
 
 # [url_custom]
-links = [{name = "url", url  = "https://pubs.acs.org/doi/abs/10.1021/acsnano.8b02454"}, {name = "Page", url = "www.google.com"}]
+links = [{name = "url", url  = "https://pubs.acs.org/doi/abs/10.1021/acsnano.8b02454"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
