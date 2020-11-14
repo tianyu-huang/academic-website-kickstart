@@ -34,9 +34,7 @@ date_format = "Jan 2006"
   location = "Livermore, CA"
   date_start = "2019-06-17"
   date_end = "2019-09-17"
-  description = """
-  I am working with the computational and multi-scale mechanics group and the LS-OPT software team on some projects. 
-  """
+  description = ""
 
 [[experience]]
   title = "Visiting Scholar"
@@ -57,7 +55,7 @@ date_format = "Jan 2006"
   date_start = "2015-09-01"
   date_end = "2020-09-30"
   description = """
-  Various projects on fiber and nanoparticle composite materials design, uncertainty quantification and propagation, surrogate modeling of PDE-based engineering systems, etc. (see below)
+  Various projects on fiber and nanoparticle composite materials design, uncertainty quantification and propagation, surrogate modeling of PDE-based engineering systems, etc.
   """
   
 [[experience]]
