@@ -9,11 +9,11 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Ph.D. candidate in Mechanical Engineering"
+role = "Research Scientist at Amazon"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Integrated DEsign Automation Laboratory", url = "https://ideal.mech.northwestern.edu/" },{ name = "Department of Mechanical Engineering", url = "https://www.mccormick.northwestern.edu/mechanical/" },{ name = "Northwestern University", url = "https://www.northwestern.edu/" } ]
+organizations = [ { name = "Amazon Alexa", url = "https://www.amazon.science/tag/alexa" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = ""
@@ -23,10 +23,7 @@ email = ""
 
 # List (academic) interests or hobbies
 interests = [
-  "Random process modeling",
-  "Uncertainty quantification and propagation",
-  "Machine learning/deep learning for design",
-  "Design Optimization"
+  ""
 ]
 
 # Organizational groups that you belong to (for People widget)
