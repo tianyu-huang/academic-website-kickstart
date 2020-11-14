@@ -19,6 +19,15 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Research Scientist"
+  company = "Amazon Alexa"
+  company_url = "https://www.amazon.science/tag/alexa"
+  location = "Cambridge, MA"
+  date_start = "2020-10-05"
+  date_end = ""
+  description = ""
+
+[[experience]]
   title = "Summer Internship"
   company = "Livermore Software Technology Corporation (LSTC)"
   company_url = "https://www.lstc.com/"
@@ -46,7 +55,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Evanston, IL"
   date_start = "2015-09-01"
-  date_end = ""
+  date_end = "2020-09-30"
   description = """
   Various projects on fiber and nanoparticle composite materials design, uncertainty quantification and propagation, surrogate modeling of PDE-based engineering systems, etc. (see below)
   """
