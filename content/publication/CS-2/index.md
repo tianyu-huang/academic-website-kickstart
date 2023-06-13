@@ -1,6 +1,6 @@
 +++
 title = "Stochastic nonlinear analysis of unidirectional fiber composites using image-based microstructural uncertainty quantification"
-authors = [ "**Huang, T.**", "Gao, J.", "Sun, Q.", "Zeng, D.", "Su, X.", "Liu, W. K.", "Chen, W.",  ]
+authors = [ "**Huang, T.**", "Gao, J.", "Sun, Q.", "Zeng, D.", "Su, X.", "Liu, W. K.", "Chen, W."  ]
 date = 2021-03-15
 draft = false
 publication = "Composite Structures"
