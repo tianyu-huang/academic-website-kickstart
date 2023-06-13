@@ -1,7 +1,7 @@
 +++
 title = "Record deduplication for entity distribution modeling in ASR transcripts"
 authors = [ "**Huang, T.**", "Chung Hoon, H.", "Wivagg, C.", "Shimizu, K." ]
-date = 2023-08-20
+date = 2023-06-01
 draft = false
 publication = "Interspeech 2023"
 abstract= ""
