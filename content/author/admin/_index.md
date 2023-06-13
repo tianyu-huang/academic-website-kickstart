@@ -78,9 +78,9 @@ interests = [
   link = "https://orcid.org/0000-0002-1296-3619"
 
 [[social]]
-  icon = "researchgate"
+  icon = "amazon"
   icon_pack = "ai"
-  link = "https://www.researchgate.net/profile/Tianyu_Huang2"
+  link = "https://www.amazon.science/author/tianyu-huang"
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
