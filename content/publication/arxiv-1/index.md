@@ -1,6 +1,6 @@
 +++
 title = "Intelligent multiscale simulation based on process-guided composite database"
-authors = [ "Liu, Z.", "Wei, H.", "**Huang, T.**", , "Wu, C.T.", ]
+authors = [ "Liu, Z.", "Wei, H.", "**Huang, T.**", "Wu, C.T." ]
 date = 2020-03-20
 draft = false
 publication = "arxiv"
