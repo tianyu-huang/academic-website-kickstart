@@ -13,7 +13,7 @@ role = "Research Scientist at Amazon"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Amazon Alexa", url = "https://www.amazon.science/tag/alexa" } ]
+organizations = [ { name = "Amazon Alexa", url = "https://www.amazon.science/author/tianyu-huang" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = ""
@@ -76,11 +76,6 @@ interests = [
   icon = "orcid"
   icon_pack = "ai"
   link = "https://orcid.org/0000-0002-1296-3619"
-
-[[social]]
-  icon = "amazon"
-  icon_pack = "ai"
-  link = "https://www.amazon.science/author/tianyu-huang"
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
