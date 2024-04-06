@@ -19,12 +19,22 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Applied Scientist"
+  company = "Amazon Alexa"
+  company_url = "https://www.amazon.science/tag/alexa"
+  location = "Boston, MA"
+  date_start = "2024-04-08"
+  date_end = ""
+  description = ""
+
+
+[[experience]]
   title = "Research Scientist"
   company = "Amazon Alexa"
   company_url = "https://www.amazon.science/tag/alexa"
   location = "Boston, MA"
   date_start = "2020-10-05"
-  date_end = ""
+  date_end = "2024-04-08"
   description = ""
 
 [[experience]]
