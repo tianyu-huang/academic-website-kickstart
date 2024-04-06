@@ -9,7 +9,7 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Research Scientist at Amazon"
+role = "Applied Scientist at Amazon"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -86,6 +86,6 @@ interests = [
 
 +++
 
-I am a research scientist at Amazon Alexa working on natural language understanding applications. Prior to joining Amazon, I worked as a graduate research assistant and obtained my Ph.D. degree in the [Department of Mechanical Engineering](https://www.mccormick.northwestern.edu/mechanical/) at [Northwestern University](https://www.northwestern.edu/). I also finished two Master of Science degrees in [Statistics](https://statistics.northwestern.edu/) and Mechanical Engineering, respectively.
+I am an applied scientist at Amazon Alexa working on natural language understanding applications. Prior to joining Amazon, I worked as a graduate research assistant and obtained my Ph.D. degree in the [Department of Mechanical Engineering](https://www.mccormick.northwestern.edu/mechanical/) at [Northwestern University](https://www.northwestern.edu/). I also finished two Master of Science degrees in [Statistics](https://statistics.northwestern.edu/) and Mechanical Engineering.
 
-Before starting graduate school, I earned a B.Sc degree in Materials Science and Engineering, a B.A. in Journalism and Communications, both from Shanghai Jiao Tong University in Shanghai, China.
+Before starting graduate school, I earned a B.Sc degree in Materials Science and Engineering and a B.A. in Journalism and Communications, both from Shanghai Jiao Tong University in Shanghai, China.
