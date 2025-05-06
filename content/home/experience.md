@@ -20,11 +20,21 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Applied Scientist"
-  company = "Amazon Alexa"
+  company = "Amazon Web Services, NeuroSymbolic AI"
+  company_url = "https://www.amazon.science"
+  location = "Boston, MA"
+  date_start = "2025-05-05"
+  date_end = ""
+  description = ""
+
+
+[[experience]]
+  title = "Applied Scientist"
+  company = "Amazon Alexa AI"
   company_url = "https://www.amazon.science/tag/alexa"
   location = "Boston, MA"
   date_start = "2024-04-08"
-  date_end = ""
+  date_end = "2025-05-04"
   description = ""
 
 
