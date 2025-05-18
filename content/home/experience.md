@@ -27,16 +27,14 @@ date_format = "Jan 2006"
   date_end = ""
   description = ""
 
-
 [[experience]]
   title = "Applied Scientist"
-  company = "Amazon Alexa AI"
+  company = "Amazon, Alexa AI"
   company_url = "https://www.amazon.science/tag/alexa"
   location = "Boston, MA"
   date_start = "2024-04-08"
   date_end = "2025-05-04"
   description = ""
-
 
 [[experience]]
   title = "Research Scientist"
