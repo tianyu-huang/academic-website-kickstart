@@ -13,7 +13,7 @@ role = "Applied Scientist at AWS"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Amazon Alexa", url = "https://www.amazon.science/author/tianyu-huang" } ]
+organizations = [ { name = "AWS Agentic AI", url = "https://www.amazon.science/author/tianyu-huang" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = ""
