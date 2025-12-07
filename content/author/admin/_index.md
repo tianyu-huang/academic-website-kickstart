@@ -23,7 +23,9 @@ email = ""
 
 # List (academic) interests or hobbies
 interests = [
-  "Natural language understanding"
+  "NeuroSymbolic AI",
+  "Natural language understanding",
+  "Formal verification"
 ]
 
 # Organizational groups that you belong to (for People widget)
